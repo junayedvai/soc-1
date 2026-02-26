@@ -119,3 +119,22 @@ cd frontend && npm run build
 ```
 
 Produces optimized static output for all 8 routes.
+
+
+
+
+
+
+![image alt](https://github.com/junayedvai/soc-1/blob/6dd8890e71c96d5b33e9690d4b894b0a5d751305/Screenshot%202026-02-26%20at%2006-49-01%20AegisX%20-%20Enterprise%20SOC%20Platform.png)
+
+![image alt](https://github.com/junayedvai/soc-1/blob/6dd8890e71c96d5b33e9690d4b894b0a5d751305/Screenshot%202026-02-26%20at%2006-49-08%20AegisX%20-%20Enterprise%20SOC%20Platform.png)
+
+![image alt](https://github.com/junayedvai/soc-1/blob/6dd8890e71c96d5b33e9690d4b894b0a5d751305/Screenshot%202026-02-26%20at%2006-49-14%20AegisX%20-%20Enterprise%20SOC%20Platform.png)
+
+![image alt](https://github.com/junayedvai/soc-1/blob/6dd8890e71c96d5b33e9690d4b894b0a5d751305/Screenshot%202026-02-26%20at%2006-49-20%20AegisX%20-%20Enterprise%20SOC%20Platform.png)
+
+![image alt](https://github.com/junayedvai/soc-1/blob/6dd8890e71c96d5b33e9690d4b894b0a5d751305/Screenshot%202026-02-26%20at%2006-49-30%20AegisX%20-%20Enterprise%20SOC%20Platform.png)
+
+![image alt](https://github.com/junayedvai/soc-1/blob/6dd8890e71c96d5b33e9690d4b894b0a5d751305/Screenshot%202026-02-26%20at%2006-49-56%20AegisX%20-%20Enterprise%20SOC%20Platform.png)
+
+![image alt](https://github.com/junayedvai/soc-1/blob/6dd8890e71c96d5b33e9690d4b894b0a5d751305/Screenshot%202026-02-26%20at%2006-50-02%20AegisX%20-%20Enterprise%20SOC%20Platform.png)
